@@ -1,1 +1,1 @@
-Recursive Function-based Expression Parsing Algorithm
+recursive function-based expression parsing algorithm
