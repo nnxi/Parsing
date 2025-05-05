@@ -1,1 +1,1 @@
-재귀함수를 활용해 작성한 수식 파싱 알고리즘
+Recursive Function-based Expression Parsing Algorithm
